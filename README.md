@@ -1,30 +1,25 @@
-# Hi there, I’m Hking1999 👋
 
-🎓 I’m currently a student pursuing my Bachelor’s in Computer Science (BCS).  
-💡 Passionate about building and breaking things on the web!
+# 👋 Hi, I'm Hking1999
 
-## 🚀 Skills & Tech Stack
+I'm a Python developer from Afghanistan 🇦🇫 focused on:
+- 🤖 Automation & Web Scraping
+- 📊 Data Processing with Pandas & NumPy
+- 🌐 Web Development with HTML & CSS
+- ⚛️ Learning JavaScript & React.js
+- 🐧 Linux System Basics
 
-- **Languages:** Python, JavaScript, HTML, CSS
-- **Frameworks:** Django, Flask, React.js (learning!)
-- **Tools:** Linux, Git, VS Code
-- **Web Development:** Frontend & Backend
+## 🚀 Projects
+- 🔗 [Simple Web Scraper](https://github.com/Hking1999/Hking1999)
 
-## 🛠️ Featured Project: Simple Python Web Scraper
+## 💼 Services I Offer
+- Python scripting & automation
+- Web scraping and data extraction
+- Data cleaning and analysis
+- Simple website design
+- Linux setup and configuration
 
-One of my favorite projects is a simple web scraper built with Python.  
-It can fetch and parse data from websites, making it easier to collect information for analysis or fun experiments.  
-Key features:
-- Uses requests and BeautifulSoup
-- Extracts data from HTML pages efficiently
-- Saves results for further processing
+📌 Contact me: [My Fiverr Profile](https://www.fiverr.com/hekmat991)
 
-_If you’re interested in web scraping or want to see the code, feel free to connect!_
+---
 
-## 🌱 Currently Learning
-
-- Deepening my knowledge of React.js and modern web technologies
-
-
-
-Thanks for visiting my profile!
+Thanks for visiting! 🙌
